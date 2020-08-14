@@ -1,0 +1,12 @@
+redis相关问题
+redis端口号：6379
+redis数据类型：
+五种：set zset string hash list
+redis持久化方式有几种：
+两种： reb aof，默认rdb的方式
+redis中支持多少库：
+16个库  0-15
+redis中的hash槽有多少
+16384（0-16382）
+今天老师讲了redis
+我学会了redis
